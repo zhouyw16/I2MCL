@@ -1,4 +1,7 @@
 .vscode
 __pycache__
 saved_models
-data
+
+*.pkl
+*.npy
+*.json
