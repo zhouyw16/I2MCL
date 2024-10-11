@@ -93,12 +93,11 @@ python main.py
 Please cite our paper as follows if you find our work useful:
 
 ```
-@inproceedings{10.1145/3581783.3612468,
-    author = {Yuwei Zhou, Xin Wang, Hong Chen, Xuguang Duan, and Wenwu Zhu},
-    title = {Intra- and Inter-Modal Curriculum for Multimodal Learning},
-    year = {2023},
-    publisher = {Association for Computing Machinery},
-    doi = {10.1145/3581783.3612468},
-    booktitle = {Proceedings of the 31th ACM International Conference on Multimedia}
+@inproceedings{zhou2023intra,
+  title={Intra-and Inter-Modal Curriculum for Multimodal Learning},
+  author={Zhou, Yuwei and Wang, Xin and Chen, Hong and Duan, Xuguang and Zhu, Wenwu},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={3724--3735},
+  year={2023}
 }
 ```
