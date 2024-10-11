@@ -3,9 +3,9 @@
 
 ## Introduction
 
-The code of ACM MM 2023 [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612468).
+The code of ACM MM 2023 paper **Intra- and Inter-Modal Curriculum for Multimodal Learning**.
 
-Intra- and Inter-Modal Curriculum for Multimodal Learning.
+The paper can be downloaded from the [official website](https://dl.acm.org/doi/pdf/10.1145/3581783.3612468) or in the [docs directory](https://github.com/zhouyw16/I2MCL/tree/master/docs).
 
 <img src="docs/framework.png">
 
